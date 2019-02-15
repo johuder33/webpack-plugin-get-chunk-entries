@@ -1,0 +1,36 @@
+{
+  "name": "webpack-plugin-get-chunk-entries",
+  "version": "0.0.0",
+  "description": "get entries automatically based on regexp while setting up webpack process",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johuder33/webpack-plugin-get-chunk-entries.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "bundle",
+    "chunk",
+    "entry",
+    "entries",
+    "nodejs",
+    "reactjs",
+    "treeshake"
+  ],
+  "author": {
+    "name": "Juorder Gonzalez",
+    "email": "johudergb@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johuder33/webpack-plugin-get-chunk-entries/issues"
+  },
+  "homepage": "https://github.com/johuder33/webpack-plugin-get-chunk-entries#readme"
+}
