@@ -38,7 +38,7 @@ const path = require("path");
 module.exports = {
   // ...
   plugins: [
-    new ReplacePlugin({
+    new WebpackGetEntriesPlugin({
       source: path.resolve("src"),
       filename: /(index|specialFile)\.(tsx?|jsx?)$/,
       exclude: [/\/privateComponent/, /\/src\/index\.(tsx?|jsx?)/]
