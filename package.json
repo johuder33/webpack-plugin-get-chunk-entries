@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-get-chunk-entries",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "get entries automatically based on regexp while setting up webpack process",
   "main": "lib/index.js",
   "directories": {
